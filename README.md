@@ -1,0 +1,2 @@
+# linguistTeacher
+task 6
